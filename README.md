@@ -94,11 +94,11 @@ Menyusun visualisasi untuk mempermudah interpretasi data dan penyampaian insight
 
 ### Dashboard Microsoft Excel
 
-![Dashboard Excel](images/dashboard_excel.png)
+![Dashboard Excel]([images/dashboard_excel.png](https://github.com/septabagass/analisis-survei-minat-pkm-2026/blob/main/images/dashboard_excel.pdf))
 
 ### Dashboard Google Spreadsheet
 
-![Dashboard Spreadsheet](images/dashboard_spreadsheet.png)
+![Dashboard Spreadsheet]([images/dashboard_spreadsheet.png](https://github.com/septabagass/analisis-survei-minat-pkm-2026/blob/main/images/dashboard_spreadsheet.pdf))
 
 ---
 
@@ -164,8 +164,8 @@ File Excel dapat diakses pada repository ini:
 
 Koordinator Tim Data PKM Center Universitas Negeri Yogyakarta
 
-- LinkedIn: [https://www.linkedin.com/in/septa-bagas-setyawan](https://www.linkedin.com/in/septabagass/)
-- GitHub: [https://github.com/USERNAME](https://github.com/septabagass)
+- LinkedIn: [https://www.linkedin.com/in/septabagass](https://www.linkedin.com/in/septabagass/)
+- GitHub: [https://github.com/septabagass]([https://github.com/septabagass](https://github.com/septabagass))
 
 ---
 
