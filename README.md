@@ -106,6 +106,7 @@ Menyusun visualisasi untuk mempermudah interpretasi data dan penyampaian insight
 
 Contoh insight (silakan sesuaikan dengan hasil analisis Anda):
 
+- Mayoritas mahasiswa menunjukkan minat tinggi untuk mengikuti PKM pada tahun 2026.
 - Skema PKM-RSH menjadi salah satu skema PKM yang paling diminati oleh mahasiswa.
 - Fakultas Matematika dan Ilmu Pengetahuan Alam (FMIPA) merupakan fakultas dengan jumlah peminat PKM terbanyak.
 - Mahasiswa angkatan 2024 menunjukkan antusiasme yang tinggi untuk mengikuti Program Kreativitas Mahasiswa (PKM) tahun 2026.
