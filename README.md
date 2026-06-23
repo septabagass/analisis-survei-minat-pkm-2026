@@ -127,9 +127,7 @@ Contoh insight (silakan sesuaikan dengan hasil analisis Anda):
 
 ### Google Spreadsheet
 
-👉 [Lihat Dashboard di Google Spreadsheet][Lihat Dashboard di Google Spreadsheet](https://docs.google.com/spreadsheets/d/1zgxAEpsI6Et87YLOr0XY-_bQ74Jd4TP1Wiq2oBft85s/edit?usp=sharing)
-
-[Lihat Dashboard di Google Spreadsheet](https://docs.google.com/spreadsheets/d/1zgxAEpsI6Et87YLOr0XY-_bQ74Jd4TP1Wiq2oBft85s/edit?usp=sharing)
+👉 [Lihat Dashboard di Google Spreadsheet](https://docs.google.com/spreadsheets/d/1zgxAEpsI6Et87YLOr0XY-_bQ74Jd4TP1Wiq2oBft85s/edit?usp=sharing)
 
 ### File Excel
 
