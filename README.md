@@ -139,18 +139,17 @@ Contoh insight (silakan sesuaikan dengan hasil analisis Anda):
 ## 📁 Struktur Repository
 
 ```text
-├── data/
-│   └── Survei_Minat_PKM_2026.xlsx
-│
 ├── images/
 │   ├── dashboard_excel.png
 │   └── dashboard_spreadsheet.png
 │
-├── dashboard/
-│   └── Dashboard_PKM_2026.xlsx
-│
-└── README.md
+└── Survei_Minat_PKM_2026.xlsx
+
 ```
+
+Keterangan:
+- `Survei_Minat_PKM_2026.xlsx` berisi dataset, proses analisis, visualisasi, dan dashboard.
+- Folder `images` berisi dashboard dalam format PDF.
 
 ---
 
