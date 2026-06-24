@@ -126,13 +126,14 @@ Contoh insight (silakan sesuaikan dengan hasil analisis Anda):
 
 ## 🔗 Akses Dashboard
 
-### Google Spreadsheet
-
-👉 [Lihat Dashboard di Google Spreadsheet](https://docs.google.com/spreadsheets/d/1zgxAEpsI6Et87YLOr0XY-_bQ74Jd4TP1Wiq2oBft85s/edit?usp=sharing)
-
 ### File Excel
 
 📥 [Unduh File Excel](https://github.com/septabagass/analisis-survei-minat-pkm-2026/blob/bd958ee10b47fa53dde6e28d7e8ec5afbd3a7565/Survei%20Persiapan%20PKM%202026.xlsx)
+
+
+### Google Spreadsheet
+
+👉 [Lihat Dashboard di Google Spreadsheet](https://docs.google.com/spreadsheets/d/1zgxAEpsI6Et87YLOr0XY-_bQ74Jd4TP1Wiq2oBft85s/edit?usp=sharing)
 
 ---
 
