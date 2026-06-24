@@ -132,16 +132,8 @@ Contoh insight (silakan sesuaikan dengan hasil analisis Anda):
 
 ### File Excel
 
-File Excel dapat diakses pada repository ini:
+[Unduh File Excel](https://github.com/septabagass/analisis-survei-minat-pkm-2026/blob/bd958ee10b47fa53dde6e28d7e8ec5afbd3a7565/Survei%20Persiapan%20PKM%202026.xlsx)
 
-```text
-/data/Survei_Minat_PKM_2026.xlsx
-```
-
----
-## 📄 File Excel
-
-📥 [Unduh File Excel](https://github.com/septabagass/analisis-survei-minat-pkm-2026/blob/bd958ee10b47fa53dde6e28d7e8ec5afbd3a7565/Survei%20Persiapan%20PKM%202026.xlsx)
 ---
 
 ## 📁 Struktur Repository
