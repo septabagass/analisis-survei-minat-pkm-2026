@@ -139,6 +139,10 @@ File Excel dapat diakses pada repository ini:
 ```
 
 ---
+## 📄 File Excel
+
+📥 [Unduh File Excel]([./Survei%20Persiapan%20PKM%202026.xlsx](https://github.com/septabagass/analisis-survei-minat-pkm-2026/blob/56d4dd1b3ab66adba7ccaeee780d4f071acaf988/Survei%20Persiapan%20PKM%202026.xlsx))
+---
 
 ## 📁 Struktur Repository
 
