@@ -14,7 +14,7 @@ Analisis dilakukan untuk memahami tingkat minat mahasiswa terhadap berbagai skem
 - Membersihkan dan memvalidasi data responden.
 - Menganalisis distribusi minat mahasiswa terhadap skema PKM.
 - Mengidentifikasi karakteristik dan preferensi peserta.
-- Menyajikan hasil analisis dalam bentuk dashboard interaktif.
+- Menyajikan hasil analisis melalui dashboard real-time.
 - Mendukung pengambilan keputusan berbasis data untuk program pembinaan PKM.
 
 ---
