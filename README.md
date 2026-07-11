@@ -95,11 +95,11 @@ Menyusun visualisasi untuk mempermudah interpretasi data dan penyampaian insight
 
 ### Dashboard Google Spreadsheet
 
-![Dashboard Spreadsheet](https://github.com/septabagass/analisis-survei-minat-pkm-2026/blob/main/images/dashboard_spreadsheet.pdf)
+![Dashboard Spreadsheet](https://github.com/septabagass/analisis-survei-minat-pkm-2026/blob/625020fddccba51037b2e077cf7602e929dd9a05/images/dashboard_spreadsheet.jpg)
 
 ### Dashboard Microsoft Excel
 
-![Dashboard Excel](https://github.com/septabagass/analisis-survei-minat-pkm-2026/blob/main/images/dashboard_excel.pdf)
+![Dashboard Excel](https://github.com/septabagass/analisis-survei-minat-pkm-2026/blob/625020fddccba51037b2e077cf7602e929dd9a05/images/dashboard_excel.jpg)
 
 ---
 
