@@ -49,16 +49,17 @@ Proses anonimisasi dilakukan untuk melindungi informasi pribadi responden sekali
 
 ## 🛠️ Tools yang Digunakan
 
-- **Microsoft Excel**
-  - Data cleaning
-  - Pivot Table
-  - Analisis data
-  - Visualisasi data
-
 - **Google Spreadsheet**
+  - Data cleaning
   - Pengolahan data
+  - Analisis data
   - Kolaborasi data
   - Dashboard interaktif
+
+- **Microsoft Excel**
+  - Pengolahan data
+  - Pivot Table
+  - Visualisasi data
 
 ---
 
@@ -92,19 +93,17 @@ Menyusun visualisasi untuk mempermudah interpretasi data dan penyampaian insight
 
 ## 📊 Dashboard Preview
 
-### Dashboard Microsoft Excel
-
-![Dashboard Excel](https://github.com/septabagass/analisis-survei-minat-pkm-2026/blob/main/images/dashboard_excel.pdf)
-
 ### Dashboard Google Spreadsheet
 
 ![Dashboard Spreadsheet](https://github.com/septabagass/analisis-survei-minat-pkm-2026/blob/main/images/dashboard_spreadsheet.pdf)
 
+### Dashboard Microsoft Excel
+
+![Dashboard Excel](https://github.com/septabagass/analisis-survei-minat-pkm-2026/blob/main/images/dashboard_excel.pdf)
+
 ---
 
 ## 💡 Insight Utama
-
-Contoh insight (silakan sesuaikan dengan hasil analisis Anda):
 
 - Mayoritas mahasiswa menunjukkan minat tinggi untuk mengikuti PKM pada tahun 2026.
 - Skema PKM-RSH menjadi salah satu skema PKM yang paling diminati oleh mahasiswa.
@@ -118,7 +117,7 @@ Contoh insight (silakan sesuaikan dengan hasil analisis Anda):
 ## 🚀 Rekomendasi
 
 - Menyelenggarakan pelatihan PKM bagi mahasiswa pemula.
-- Memperkuat sosialisasi pada setiap bidang PKM.
+- Memperkuat sosialisasi pada setiap skema PKM.
 - Menyediakan pendampingan intensif untuk skema PKM yang memiliki minat tinggi.
 - Mengembangkan program mentoring oleh mahasiswa yang telah berpengalaman mengikuti PKM.
 
@@ -126,14 +125,14 @@ Contoh insight (silakan sesuaikan dengan hasil analisis Anda):
 
 ## 🔗 Akses Dashboard
 
-### File Excel
-
-📥 [Unduh File Excel](https://github.com/septabagass/analisis-survei-minat-pkm-2026/blob/bd958ee10b47fa53dde6e28d7e8ec5afbd3a7565/Survei%20Persiapan%20PKM%202026.xlsx)
-
-
 ### Google Spreadsheet
 
 👉 [Lihat Dashboard di Google Spreadsheet](https://docs.google.com/spreadsheets/d/1zgxAEpsI6Et87YLOr0XY-_bQ74Jd4TP1Wiq2oBft85s/edit?usp=sharing)
+
+
+### File Excel
+
+📥 [Unduh File Excel](https://github.com/septabagass/analisis-survei-minat-pkm-2026/blob/bd958ee10b47fa53dde6e28d7e8ec5afbd3a7565/Survei%20Persiapan%20PKM%202026.xlsx)
 
 ---
 
