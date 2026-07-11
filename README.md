@@ -1,4 +1,4 @@
-# 📊 Dashboard Analisis Survei Minat PKM 2026
+# 📊 Analisis Survei Minat PKM 2026
 
 ## 📌 Tentang Proyek
 
