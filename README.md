@@ -123,11 +123,11 @@ Menyusun visualisasi untuk mempermudah interpretasi data dan penyampaian insight
 
 ---
 
-## 🔗 Akses Dashboard
+## 🔗 Akses File Proyek
 
 ### Google Spreadsheet
 
-👉 [Lihat Dashboard di Google Spreadsheet](https://docs.google.com/spreadsheets/d/1zgxAEpsI6Et87YLOr0XY-_bQ74Jd4TP1Wiq2oBft85s/edit?usp=sharing)
+👉 [Lihat File Google Spreadsheet](https://docs.google.com/spreadsheets/d/1zgxAEpsI6Et87YLOr0XY-_bQ74Jd4TP1Wiq2oBft85s/edit?usp=sharing)
 
 
 ### File Excel
